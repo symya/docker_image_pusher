@@ -1,1 +1,1 @@
-mysql:latest
+cooderl/wewe-rss:latest
