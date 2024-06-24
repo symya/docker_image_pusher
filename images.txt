@@ -1,1 +1,1 @@
-webdevops/php-nginx:5.6
+python:3.6
