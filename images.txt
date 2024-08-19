@@ -1,1 +1,1 @@
-webgoat/webwolf:v8.1.0
+webgoat/goatandwolf:v8.1.0
