@@ -1,1 +1,1 @@
-golang:alpine
+chromedp/headless-shell
