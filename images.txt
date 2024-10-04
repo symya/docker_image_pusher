@@ -1,1 +1,1 @@
-chromedp/headless-shell
+python:3.9-slim
